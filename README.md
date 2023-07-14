@@ -1,4 +1,4 @@
-Tech Stack used : HTML , CSS and Javascript
+Tech Stack used : HTML , CSS and Javascript.
 
 
  
