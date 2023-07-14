@@ -1,1 +1,4 @@
-# Flipkart-Landing-Page
+Tech Stack used : HTML , CSS and Javascript
+
+
+ 
